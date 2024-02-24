@@ -8,6 +8,7 @@
 import Foundation
 import CoreLocation
 import OSLog
+import JVSwiftCore
 
 /// A Swift shell around the objective-C type CLLocationManager for convenience
 public class LocationManager: NSObject{

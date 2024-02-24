@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "jvswiftcore",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/TheMisfit68/JVSwiftCore.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "4d965a0ebc0cf7a6f978d960b81dc127b173f32e"
+      }
+    }
+  ],
+  "version" : 2
+}
